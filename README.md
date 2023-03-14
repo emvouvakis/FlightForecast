@@ -6,3 +6,7 @@ This study predicts the number of arrivals at the Athens International Airport u
 1. Create new environment: ``conda env create --name new_env --file enviroment.yml``
 1. Activate environment: ``conda activate new_env``
 1. App execution: ``streamlit run 01_ _Introduction.py``
+
+
+## App overview
+![app](https://github.com/emvouvakis/FlightForecast/blob/main/intro.gif)
