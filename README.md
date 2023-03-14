@@ -9,4 +9,5 @@ This study predicts the number of arrivals at the Athens International Airport u
 
 
 ## App overview
-![app](https://github.com/emvouvakis/FlightForecast/blob/main/intro.gif)
+https://user-images.githubusercontent.com/86418773/225042843-f048d4ff-e7bb-43fb-987e-b4665e6f62a7.mp4
+
